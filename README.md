@@ -2,7 +2,7 @@
 
 This project focuses on core implementation of MVP pattern. 
  
- Following code is not added in project:
+ In project for keeping it simple:
   - No dependency injection
   - No validations
   - No extra classes
